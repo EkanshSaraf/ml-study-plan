@@ -1,3 +1,5 @@
+My Forked Copy
+
 # The Ultimate FREE Machine Learning Study Plan
 
 A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.
